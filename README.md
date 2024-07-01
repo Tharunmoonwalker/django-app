@@ -87,7 +87,9 @@ Follow these steps to set up the project locally:
 ## Usage
 
 - **Admin Panel**: Access the admin panel at `http://127.0.0.1:8000/admin/` to manage products, categories, and orders.
-- **User Interface**: Browse products, add them to the cart, and proceed with the checkout process as a user.
+- **User Interface**: Browse products,and for buying them proceed with the checkout process as a user.
+- **Adding Product**: For adding the products as a seller go to, "http://127.0.0.1:8000/myapp/products/add".
+- **Updating the products info**: For doing so visit, "http://127.0.0.1:8000/myapp/products/mylistings/" by loging into  your user account.
 
 ## Contributing
 
