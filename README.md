@@ -1,4 +1,4 @@
-# E-Commerce Web Application README
+# NeuTech - An E-commerce web application
 
 ## Table of Contents
 
