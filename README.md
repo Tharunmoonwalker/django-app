@@ -91,6 +91,11 @@ Follow these steps to set up the project locally:
 - **Adding Product**: For adding the products as a seller go to, "http://127.0.0.1:8000/myapp/products/add".
 - **Updating the products info**: For doing so visit, "http://127.0.0.1:8000/myapp/products/mylistings/" by loging into  your user account.
 
+The Videographic representation of the web-app UI:
+
+https://github.com/Tharunmoonwalker/neu_tech/assets/119483447/19890a3a-dd41-4de0-b6a3-99d51d470f74
+
+
 ## Contributing
 
 Contributions are welcome! Follow these steps to contribute:
