@@ -1,4 +1,4 @@
-# NeuTech - An E-commerce web application 🛍️
+# NeuTech - A Django web application 🛍️
 
 ## Table of Contents
 
